@@ -1,0 +1,10 @@
+print("Я пошёл в школу".lower())
+name = "я пошёл гулять"
+print(name.upper())
+age = 21
+print(f"мне {age} лет")
+first_name = "Леонид"
+last_name = "Суворов"
+full_name = "{} {}".format(first_name, last_name)
+print(full_name)
+print("cat \n\tdog")
